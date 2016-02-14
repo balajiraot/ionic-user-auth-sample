@@ -1,0 +1,1 @@
+Sample application to show user authentication and authorization in Ionic app with firebase backend  
